@@ -50,8 +50,8 @@
 // console.log(boshigaElementQoshish([1, 2, 3], 0));
 
 //5
-// function elementTekshirish(array, element) {
-//   return array.includes(element);
+// function elementTekshirish(arg, element) {
+//   return arg.includes(element);
 // }
 
 // console.log(elementTekshirish([1, 2, 3, 4], 3));
@@ -71,3 +71,11 @@
 // );
 
 //8
+// function indexBoyichaOlibTashlash(arg, boshlash, soni) {
+//   arg.splice(boshlash, soni);
+//   return arg;
+// }
+
+// console.log(indexBoyichaOlibTashlash([1, 2, 3, 4, 5], 2, 1));
+
+// 8dan tepasi yana shu masalalar ekan
